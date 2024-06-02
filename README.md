@@ -1,4 +1,4 @@
-# Python Project-2
+# Python Project-2 (Car Data Analysis)
 - Data Cleaning and Preprocessing : We begin by loading the car dataset into a Pandas DataFrame, addressing missing values, and removing duplicates to ensure data quality.
 
 - Exploratory Data Analysis (EDA) : Using descriptive statistics and visualizations, we uncover patterns, distributions, and relationships within the data, providing a foundational understanding of car attributes and trends.
